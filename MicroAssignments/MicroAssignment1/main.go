@@ -1,0 +1,21 @@
+package main
+
+import (
+	"fmt"
+)
+
+func formatCharacter(name string, age int, role string, level int) {
+	fmt.Println(name)
+	fmt.Println("----------")
+	fmt.Println("Age:", age)
+	fmt.Println("Role:", role)
+	fmt.Println("Level:", level)
+}
+
+func main() {
+	var name string = "Alkhait"
+	var age int = 23
+	var role string = "Fighter"
+	var level int = 5
+	formatCharacter(name, age, role, level)
+}

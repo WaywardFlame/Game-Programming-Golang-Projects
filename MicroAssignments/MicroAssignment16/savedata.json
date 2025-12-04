@@ -1,0 +1,94 @@
+{
+	"Player": {
+		"Alive": true,
+		"Level": 11,
+		"Size": 50,
+		"Position": {
+			"X": 450,
+			"Y": 200
+		},
+		"Color": {
+			"R": 0,
+			"G": 0,
+			"B": 255,
+			"A": 255
+		}
+	},
+	"Enemies": [
+		{
+			"Alive": false,
+			"Level": 1,
+			"Size": 50,
+			"Position": {
+				"X": 600,
+				"Y": 0
+			},
+			"Color": {
+				"R": 0,
+				"G": 0,
+				"B": 0,
+				"A": 0
+			}
+		},
+		{
+			"Alive": false,
+			"Level": 2,
+			"Size": 50,
+			"Position": {
+				"X": 300,
+				"Y": 100
+			},
+			"Color": {
+				"R": 0,
+				"G": 0,
+				"B": 0,
+				"A": 0
+			}
+		},
+		{
+			"Alive": false,
+			"Level": 3,
+			"Size": 50,
+			"Position": {
+				"X": 150,
+				"Y": 0
+			},
+			"Color": {
+				"R": 0,
+				"G": 0,
+				"B": 0,
+				"A": 0
+			}
+		},
+		{
+			"Alive": false,
+			"Level": 4,
+			"Size": 50,
+			"Position": {
+				"X": 100,
+				"Y": 350
+			},
+			"Color": {
+				"R": 0,
+				"G": 0,
+				"B": 0,
+				"A": 0
+			}
+		},
+		{
+			"Alive": true,
+			"Level": 5,
+			"Size": 50,
+			"Position": {
+				"X": 750,
+				"Y": 50
+			},
+			"Color": {
+				"R": 255,
+				"G": 0,
+				"B": 0,
+				"A": 255
+			}
+		}
+	]
+}
